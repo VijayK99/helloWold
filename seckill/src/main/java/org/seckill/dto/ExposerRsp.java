@@ -15,8 +15,7 @@ public class ExposerRsp {
     //    id
     private long seckillId;
 
-    //    系统当前时间(毫秒)
-    private long now;
+
 
     //    开启时间
     private long start;
@@ -27,7 +26,7 @@ public class ExposerRsp {
     //是否开启 md5 ，seckillId
     public ExposerRsp(boolean exposed, String md5, long seckillId) {
         this.exposed = exposed;
-        this.md5 = md5;
+
         this.seckillId = seckillId;
     }
 
