@@ -37,7 +37,7 @@ public class SeckillExecutionRsp {
     public String toString() {
         return "SeckillExecutionRsp{" +
                 "seckill=" + seckill +
-                ", state=" + STATE +
+                ", state=" + das +
                 ", stateInfo='" + stateInfo + '\'' +
                 ", successKilled=" + successKilled +
                 '}';
