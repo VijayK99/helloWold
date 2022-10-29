@@ -15,7 +15,8 @@ public class ExposerRsp {
     //    id
     private long seckillId;
 
-
+    //    系统当前时间(毫秒)
+   
 
     //    开启时间
     private long start;
