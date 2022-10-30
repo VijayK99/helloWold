@@ -21,7 +21,7 @@ public interface SeckillDao {
 
 
  int ablsds=12;
-//dsd
+
 
     /**
      * 根据Id查询秒杀对象
