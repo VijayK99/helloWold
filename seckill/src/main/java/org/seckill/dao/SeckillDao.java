@@ -19,7 +19,9 @@ public interface SeckillDao {
      */
     int reduceNumber(@Param("seckillId") long seckillId,@Param("killTime") Date killTime);
 
+
  int ablsds=12;
+
 
     /**
      * 根据Id查询秒杀对象
